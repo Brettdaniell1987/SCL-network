@@ -91,7 +91,7 @@ Examples include:
 
 ---
 
-## 🖼️ Diagrams / Visual Aids
+## 🖼️ Diagrams / Visual Aids 🖼️
 
 The **diagrams/** folder contains visualizations of the SCL network. Click each link to view the corresponding diagram:
 
@@ -131,11 +131,36 @@ The **diagrams/** folder contains visualizations of the SCL network. Click each 
 
 ---
 
-## 🎬Examples / Simulations🎬
-The **simulations/** folder contains example scenarios:  
-1. **Day-in-the-Life** – Typical flow of inputs through core SCLs and symbols  
-2. **Day-of-Anomalies** – How the system adapts to unexpected inputs  
-3. **Symbolic Ecosystem** – Full three-day simulation showing emergent meta-SCLs  
+## 🎬 Simulations / Examples 🎬
+
+The **simulations/** folder contains example scenarios illustrating how the SCL network behaves. Click each link to view the simulation:
+
+1. [**Day-in-the-Life**](simulations/day_in_the_life.md)  
+   - Typical flow of inputs through **core SCLs, secondary symbols, and meta-SCLs**.  
+   - Shows **emergent SCLs** feeding into new symbols and recursive loops.  
+   - Visualized in **Recursive Evolution** diagram.
+
+2. [**Day-of-Anomalies**](simulations/day_of_anomalies.md)  
+   - System response to **unexpected inputs** or disruptions.  
+   - Demonstrates **resilience and adaptation** of core and emergent loops.  
+   - Visualized in **Full SCL Ecosystem** diagram.
+
+3. [**Symbolic Ecosystem**](simulations/symbolic_ecosystem.md)  
+   - Full multi-day simulation showing **emergence of secondary symbols and meta-SCLs**.  
+   - Visualized in **Multi-Day Evolution** diagram.
+
+4. [**Outside-the-Box Input**](simulations/outside_the_box.md)  
+   - Single novel input not previously in the system.  
+   - Shows **generation of new symbols and meta-SCLs** and recursive adaptation.  
+   - Visualized in **Experimental Collisions** diagram.
+
+5. [**Experimental Collisions**](simulations/experimental_collisions.md)  
+   - Multiple unconventional inputs interacting simultaneously.  
+   - Shows **symbol collisions, interference, and emergent patterns**.  
+   - Visualized in **Experimental Collisions** diagram.
+
+> **Tip:** Start with **Day-in-the-Life** to understand normal system flow, then explore **Outside-the-Box Input** and **Experimental Collisions** for advanced scenarios.
+
 
 ---
 
