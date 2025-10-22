@@ -4,12 +4,12 @@
  
 
 **Related Diagrams:**  
-- [Experimental Collisions](diagram/experimental_collisions.md)  
-- [Full SCL Ecosystem](diagram/full_scl_ecosystem.md)
-- [Layered Rings](diagram/layered_rings.md) 
-- [Recursive Evolution](diagram/recursive_evolution.md) 
-- [Symbolic Network](diagram/symbolic_network.md)  
-- [Multi-Day Evolution](diagram/multi_day_evolution.md)
+- [Experimental Collisions](experimental_collisions.md)  
+- [Full SCL Ecosystem](full_scl_ecosystem.md)
+- [Layered Rings](layered_rings.md) 
+- [Recursive Evolution](recursive_evolution.md) 
+- [Symbolic Network](symbolic_network.md)  
+- [Multi-Day Evolution](multi_day_evolution.md)
 
 
 ```mermaid
