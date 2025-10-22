@@ -166,11 +166,18 @@ This table summarizes all current simulations in the SCL Network repository, pro
 
 | Simulation | Purpose | Core Focus / Unique Aspect |
 |------------|--------|----------------------------|
-| **Day-in-the-Life** | Demonstrates typical daily SCL cycles | Predictable ripple patterns; standard symbol propagation |
-| **Day-of-Anomalies** | Tests network response to unexpected inputs | Unusual symbols; adaptation and reflection loops challenged |
-| **Symbolic Ecosystem** | Shows multi-layer SCL interactions over time | Core + Secondary + Meta layers; recursive integration and emergent patterns |
-| **Outside-the-Box Input** | Explores novel or unconventional symbolic inputs | Completely new symbols; ripple effects across all layers |
-| **Experimental Collisions** | Examines conflicting SCL inputs and their interactions | Conflicting symbols; emergent behaviors from collisions; network stabilization |
+| [Day-in-the-Life](simulation/day_in_the_life.md) | Demonstrates typical daily SCL cycles | Predictable ripple patterns; standard symbol propagation |
+| [Day-of-Anomalies](simulation/day_of_anomalies.md) | Tests network response to unexpected inputs | Unusual symbols; adaptation and reflection loops challenged |
+| [Symbolic Ecosystem](simulation/symbolic_ecosystem.md) | Shows multi-layer SCL interactions over time | Core + Secondary + Meta layers; recursive integration and emergent patterns |
+| [Outside-the-Box Input](simulation/outside_the_box.md) | Explores novel or unconventional symbolic inputs | Completely new symbols; ripple effects across all layers |
+| [Experimental Collisions](simulation/experimental_collisions.md) | Examines conflicting SCL inputs and their interactions | Conflicting symbols; emergent behaviors from collisions; network stabilization |
+
+---
+
+## How to Use This Index
+- Click the simulation name to open the detailed file.  
+- Compare setups and cycle logs to observe differences in ripple effects and emergent symbols.  
+- Use as a guide to plan experiments, track outcomes, or cross-reference diagrams.
 
 ---
 
