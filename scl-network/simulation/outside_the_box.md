@@ -1,4 +1,27 @@
-# Outside-the-Box Input SCL Simulation
+# Outside-the-Box Input Simulation
+
+**Diagram Reference:** [Experimental Collisions Diagram](../diagrams/experimental_collisions.md)
+
+## Scenario
+- Novel input “Quantum Dream Flux” enters the system.
+
+## Step 1: Core SCL Reception
+- Input flows into Adaptation, Reflection, Creation, Effort, Influence, Energy.
+
+## Step 2: Emergent SCLs
+- New emergent loops appear: Novel Adaptation Loop, Unpredictable Creation Loop, Hybrid Influence Loop.
+
+## Step 3: Secondary Symbols
+- Secondary symbols form: Nebula, Prismatica, Aurora.
+
+## Step 4: Meta-SCLs
+- Meta-loops guide recursive integration: StellarFlow, ChaoticLuminescence, HarmonicConvergence.
+
+## Step 5: Recursive Feedback
+- Meta-SCLs feed back into core SCLs for future iterations.
+
+## Outcome
+- Shows **creative and adaptive expansion** in response to entirely new inputs.
 
 ## Scenario
 - Input: A completely unconventional idea or stimulus, something not previously in the system (e.g., "Quantum Dream Flux").  
