@@ -129,6 +129,28 @@ The **diagrams/** folder contains visualizations of the SCL network. Click each 
 > **Tip:** Follow the arrows in each diagram to trace how inputs transform into emergent behaviors and feed back into the system.  
 > Start with **Symbolic Network** for a high-level understanding before exploring **Multi-Day Evolution** or **Experimental Collisions**.
 
+
+# Diagram Index
+
+This table summarizes all current diagrams in the SCL Network repository, providing a quick reference for purpose and relationships.
+
+| Diagram | Purpose | Core Focus / Unique Aspect |
+|---------|--------|----------------------------|
+| [Layered Rings](diagram/layered_rings.md) | Visualizes SCLs as layered loops | Shows flow of core SCLs and secondary ripples |
+| [Recursive Evolution](diagram/recursive_evolution.md) | Illustrates how SCLs evolve over repeated cycles | Highlights recursive feedback and meta-SCL interactions |
+| [Multi-Day Evolution](diagram/multi_day_evolution.md) | Shows SCL evolution across multiple days | Tracks adaptation, reflection, and influence day-by-day |
+| [Symbolic Network](diagram/symbolic_network.md) | Maps interactions of multiple SCLs across the network | Demonstrates ripple effects and network propagation |
+| [Full SCL Ecosystem](diagram/full_scl_ecosystem.md) | Combines all SCL layers into a single comprehensive diagram | Integrates core, secondary, and meta SCLs for complete overview |
+| [Combined Overview](diagram/combined_overview.md) | Provides a high-level reference of all diagrams | Serves as central hub linking all SCL concepts |
+
+---
+
+## How to Use This Index
+- Click the diagram name to open the detailed file.  
+- Compare diagrams to see progression from basic loops to multi-day recursive patterns.  
+- Use as a guide for mapping simulations and understanding SCL interactions.
+
+
 ---
 ## 🎬 Simulations / Examples 🎬
 
