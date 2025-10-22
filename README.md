@@ -275,25 +275,3 @@ The SCL Network models the flow of symbolic creation, reflection, adaptation, an
 
 ---
 
-## Diagram Index
-
-| Diagram | Purpose | Core Focus / Unique Aspect |
-|---------|--------|----------------------------|
-| [Layered Rings](diagram/layered_rings.md) | Visualizes SCLs as layered loops | Shows flow of core SCLs and secondary ripples |
-| [Recursive Evolution](diagram/recursive_evolution.md) | Illustrates how SCLs evolve over repeated cycles | Highlights recursive feedback and meta-SCL interactions |
-| [Multi-Day Evolution](diagram/multi_day_evolution.md) | Shows SCL evolution across multiple days | Tracks adaptation, reflection, and influence day-by-day |
-| [Symbolic Network](diagram/symbolic_network.md) | Maps interactions of multiple SCLs across the network | Demonstrates ripple effects and network propagation |
-| [Full SCL Ecosystem](diagram/full_scl_ecosystem.md) | Combines all SCL layers into a single comprehensive diagram | Integrates core, secondary, and meta SCLs for complete overview |
-| [Combined Overview](diagram/combined_overview.md) | Provides a high-level reference of all diagrams | Serves as central hub linking all SCL concepts |
-
----
-
-## Simulation Index
-
-| Simulation | Purpose | Core Focus / Unique Aspect |
-|------------|--------|----------------------------|
-| [Day-in-the-Life](simulation/day_in_the_life.md) | Demonstrates typical daily SCL cycles | Predictable ripple patterns; standard symbol propagation |
-| [Day-of-Anomalies](simulation/day_of_anomalies.md) | Tests network response to unexpected inputs | Unusual symbols; adaptation and reflection loops challenged |
-| [Symbolic Ecosystem](simulation/symbolic_ecosystem.md) | Shows multi-layer SCL interactions over time | Core + Secondary + Meta layers; recursive integration and emergent patterns |
-| [Outside-the-Box Input](simulation/outside_the_box.md) | Explores novel or unconventional symbolic inputs | Completely new symbols; ripple effects across all layers |
-| [E]()
