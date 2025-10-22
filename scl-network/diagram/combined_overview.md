@@ -1,42 +1,42 @@
 ```mermaid
-%% Combined SCL Network Overview
+%% Combined SCL Network Overview with Colors
 graph TD
     %% Core SCLs
-    Adaptation["Adaptation"]
-    Effort["Effort"]
-    Influence["Influence"]
-    Reflection["Reflection"]
-    Creation["Creation"]
-    Energy["Energy"]
+    Adaptation["Adaptation"]:::core
+    Effort["Effort"]:::core
+    Influence["Influence"]:::core
+    Reflection["Reflection"]:::core
+    Creation["Creation"]:::core
+    Energy["Energy"]:::core
 
     %% Emergent Loops
-    E1["Hybrid Adaptation-Reflection Loop"]
-    E2["Chaotic Creation-Energy Loop"]
-    E3["Influential Feedback Loop"]
-    E4["Interference Loop"]
+    E1["Hybrid Adaptation-Reflection Loop"]:::emergent
+    E2["Chaotic Creation-Energy Loop"]:::emergent
+    E3["Influential Feedback Loop"]:::emergent
+    E4["Interference Loop"]:::emergent
 
     %% Secondary Symbols
-    Lumen["Lumen"]
-    Prism["Prism"]
-    Fluxion["Fluxion"]
-    Nebula["Nebula"]
-    Aurora["Aurora"]
-    Prismatica["Prismatica"]
-    Nebulatrix["Nebulatrix"]
-    PrismaticVortex["Prismatic Vortex"]
-    AuroralEcho["Auroral Echo"]
-    LatticeBloom["Lattice Bloom"]
+    Lumen["Lumen"]:::symbol
+    Prism["Prism"]:::symbol
+    Fluxion["Fluxion"]:::symbol
+    Nebula["Nebula"]:::symbol
+    Aurora["Aurora"]:::symbol
+    Prismatica["Prismatica"]:::symbol
+    Nebulatrix["Nebulatrix"]:::symbol
+    PrismaticVortex["Prismatic Vortex"]:::symbol
+    AuroralEcho["Auroral Echo"]:::symbol
+    LatticeBloom["Lattice Bloom"]:::symbol
 
     %% Meta-SCLs
-    LuminaryFlow["LuminaryFlow"]
-    ChaoticHarmony["ChaoticHarmony"]
-    GuidedEmergence["GuidedEmergence"]
-    StellarFlow["StellarFlow"]
-    ChaoticLuminescence["ChaoticLuminescence"]
-    HarmonicConvergence["HarmonicConvergence"]
-    StellarConvergence["Stellar Convergence"]
-    TemporalFlow["Temporal Flow"]
-    AuroralCascade["Auroral Cascade"]
+    LuminaryFlow["LuminaryFlow"]:::meta
+    ChaoticHarmony["ChaoticHarmony"]:::meta
+    GuidedEmergence["GuidedEmergence"]:::meta
+    StellarFlow["StellarFlow"]:::meta
+    ChaoticLuminescence["ChaoticLuminescence"]:::meta
+    HarmonicConvergence["HarmonicConvergence"]:::meta
+    StellarConvergence["Stellar Convergence"]:::meta
+    TemporalFlow["Temporal Flow"]:::meta
+    AuroralCascade["Auroral Cascade"]:::meta
 
     %% Core SCL interactions
     Adaptation --> E1
@@ -72,3 +72,9 @@ graph TD
     StellarConvergence --> Adaptation
     TemporalFlow --> Reflection
     AuroralCascade --> Influence
+
+    %% Style Classes
+    classDef core fill:#f9d5e5,stroke:#e91e63,stroke-width:2px,color:#000;
+    classDef emergent fill:#d5f4e6,stroke:#00b894,stroke-width:2px,color:#000;
+    classDef symbol fill:#fff3b0,stroke:#ff9f1c,stroke-width:2px,color:#000;
+    classDef meta fill:#c6d8ff,stroke:#3f51b5,stroke-width:2px,color:#000;
