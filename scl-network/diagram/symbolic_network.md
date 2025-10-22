@@ -1,26 +1,42 @@
-```markdown
 ```mermaid
-%% Symbolic Interaction Network
-graph LR
+%% Symbolic Network: Core SCLs to Secondary Symbols to Meta-SCLs
+graph TD
     %% Core SCLs
-    Adapt[Adaptation] --> Lumen
-    Reflect[Reflection] --> Lumen
-    Create[Creation] --> Lumen
+    Adaptation["Adaptation"]
+    Reflection["Reflection"]
+    Creation["Creation"]
+    Effort["Effort"]
+    Influence["Influence"]
+    Energy["Energy"]
 
-    Energy[Energy] --> Fluxion
-    Chaos[Chaos] --> Fluxion
-    Spark[Spark] --> Fluxion
-
-    Influence --> Aether
-    Serendipity --> Aether
-    Reflect --> Aether
-
-    %% Secondary symbols
-    Lumen --> Clarion
-    Fluxion --> Stratus
-    Aether --> Harmonia
+    %% Secondary Symbols
+    Lumen["Lumen"]
+    Prism["Prism"]
+    Fluxion["Fluxion"]
+    Nebula["Nebula"]
+    Aurora["Aurora"]
+    Prismatica["Prismatica"]
 
     %% Meta-SCLs
+    LuminaryFlow["LuminaryFlow"]
+    ChaoticHarmony["ChaoticHarmony"]
+    GuidedEmergence["GuidedEmergence"]
+
+    %% Core SCL → Secondary Symbol Links
+    Adaptation --> Lumen
+    Reflection --> Lumen
+    Creation --> Fluxion
+    Energy --> Fluxion
+    Influence --> Prism
+    Effort --> Prism
+    Adaptation --> Nebula
+    Reflection --> Aurora
+    Creation --> Prismatica
+
+    %% Secondary Symbol → Meta-SCL Links
     Lumen --> LuminaryFlow
-    Fluxion --> ChaoticHarmony
-    Aether --> GuidedEmergence
+    Prism --> ChaoticHarmony
+    Fluxion --> GuidedEmergence
+    Nebula --> LuminaryFlow
+    Aurora --> ChaoticHarmony
+    Prismatica --> GuidedEmergence
