@@ -1,3 +1,14 @@
+### **2. Symbolic Network (`symbolic_network.md`)**
+
+```markdown
+# Symbolic Network Diagram
+
+**Back to README:** [Return to README](../README.md)  
+
+**Related Simulations:**  
+- [Day-in-the-Life](../simulations/day_in_the_life.md)  
+- [Symbolic Ecosystem](../simulations/symbolic_ecosystem.md)
+
 ```mermaid
 %% Symbolic Network: Core SCLs to Secondary Symbols to Meta-SCLs
 graph TD
