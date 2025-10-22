@@ -1,6 +1,7 @@
 # Combined Overview Diagram
 
-**Back to README:** [Return to README](../README.md)  
+**Back to README:** [Return to README](../../README.md)
+ 
 
 **Related Simulations:**  
 - [Day-in-the-Life](../simulations/day_in_the_life.md)  
