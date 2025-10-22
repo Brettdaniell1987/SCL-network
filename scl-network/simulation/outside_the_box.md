@@ -38,14 +38,38 @@ Explores how completely novel or unconventional SCL inputs propagate through the
 
 ---
 
+## 📝 Cycle Log (Sample Timeline)
+| Cycle | Core SCL Activity | Secondary SCL Activity | Meta SCL Activity | Notes |
+|-------|-----------------|----------------------|-----------------|-------|
+| 1 | Creation 🌱 | Imagination 💡 | Integration 🔄 | Novel input introduced |
+| 2 | Effort ⚙️ | Application 🔧 | Meta-Reflection 🪞 | Unconventional symbol tested |
+| 3 | Reflection 💭 | Interpretation 🧩 | Symbolic Rebirth ✴️ | Emergent behavior observed |
+| 4 | Influence 🌊 | Communication 📡 | Integration 🔄 | Feedback applied to network |
+
+---
+
+## ✨ Symbolic Highlights
+- Unpredictable symbols propagate across layers.  
+- Recursive loops amplify or dampen their impact.  
+- Emergent symbols often appear in non-standard locations.
+
+---
+
+## 🔄 Variant Experiments
+- Combine multiple novel inputs to test systemic stress.  
+- Limit certain secondary loops temporarily to see propagation changes.  
+- Increase reflection sensitivity to detect subtle ripple effects.
+
+---
+
 ## 🔍 Observations
-- Novel inputs propagate in **unexpected ways**, influencing multiple layers.  
-- Recursive loops amplify or dampen the impact depending on connectivity.  
-- Emergent symbols can appear in non-standard locations, affecting future cycles.
+- Novel inputs produce rich, unpredictable ripple effects.  
+- Reflection and influence loops help the network stabilize.  
+- Emergent patterns may permanently alter future cycles.
 
 ---
 
 ## 🚀 Next Steps
-- Track integration of novel symbols across multiple cycles.  
-- Compare network adaptation with “Day-in-the-Life” and “Day-of-Anomalies” simulations.  
+- Compare integration with “Day-in-the-Life” and “Day-of-Anomalies.”  
+- Track recursive evolution of new symbols over multiple cycles.  
 - Explore hybrid simulations combining standard and outside-the-box inputs.
