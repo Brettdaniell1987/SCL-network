@@ -54,7 +54,7 @@ graph TD
 
     %% === STYLE CLASSES ===
     classDef title fill:#222,color:#fff,stroke:#555,stroke-width:2px,font-size:18px,font-weight:bold;
-    classDef creation fill:#1abc9c,color:#fff,stroke:#0e7c66,stroke-width:2px;      %% Green–blue: Creation
-    classDef effort fill:#3498db,color:#fff,stroke:#1b5e91,stroke-width:2px;         %% Blue: Effort/Adaptation
-    classDef reflection fill:#9b59b6,color:#fff,stroke:#5e3378,stroke-width:2px;     %% Purple: Reflection
-    classDef influence fill:#f1c40f,color:#000,stroke:#b38f00,stroke-width:2px;      %% Yellow: Influence
+    classDef creation fill:#1abc9c,color:#fff,stroke:#0e7c66,stroke-width:2px;
+    classDef effort fill:#3498db,color:#fff,stroke:#1b5e91,stroke-width:2px;
+    classDef reflection fill:#9b59b6,color:#fff,stroke:#5e3378,stroke-width:2px;
+    classDef influence fill:#f1c40f,color:#000,stroke:#b38f00,stroke-width:2px;
