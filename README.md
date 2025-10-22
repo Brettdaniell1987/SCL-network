@@ -91,14 +91,43 @@ Examples include:
 
 ---
 
-## 🖼️Diagrams / Visual Aids🖼️
-The **diagrams/** folder contains:  
-1. **Layered Rings** – Circular SCL flows with outward ripples  
-2. **Symbolic Network** – Core SCLs → symbols → meta-SCLs  
-3. **Recursive Evolution** – Multi-day recursive SCL interactions  
-4. **Full SCL Ecosystem** – All core, secondary, and meta-SCLs with feedback loops  
+## 🖼️ Diagrams / Visual Aids
 
-> Diagrams use Mermaid for rendering directly on GitHub.
+The **diagrams/** folder contains visualizations of the SCL network. Click each link to view the corresponding diagram:
+
+1. [**Layered Rings**](diagrams/layered_rings.md)  
+   - Shows **core SCLs circulating** and generating outward ripples.  
+   - Helps visualize **how new loops and interactions propagate**.
+
+2. [**Symbolic Network**](diagrams/symbolic_network.md)  
+   - Maps **core SCLs → secondary symbols → meta-SCLs**.  
+   - Illustrates **how symbols are created and integrated** in a high-level view.  
+   - Good for newcomers to quickly grasp **symbolic flow**.
+
+3. [**Recursive Evolution**](diagrams/recursive_evolution.md)  
+   - Displays **multi-day feedback loops**, showing how symbols and meta-SCLs evolve over time.  
+   - Corresponds to **Day-in-the-Life** and **Symbolic Ecosystem** simulations.
+
+4. [**Full SCL Ecosystem**](diagrams/full_scl_ecosystem.md)  
+   - Combines **all core, emergent, secondary, and meta-SCLs**.  
+   - Shows **recursive feedback loops** and system growth over multiple days.
+
+5. [**Experimental Collisions**](diagrams/experimental_collisions.md)  
+   - Visualizes **simultaneous outside-the-box inputs** interacting with the system.  
+   - Matches the **Experimental Collisions** simulation.  
+   - Shows **emergent symbols, meta-SCLs, and recursive adaptation**.
+
+6. [**Multi-Day Evolution**](diagrams/multi_day_evolution.md)  
+   - Displays **Day 1 → Day 2 → Day 3 evolution** of symbols and meta-SCLs.  
+   - Demonstrates **long-term adaptation and recursive growth**.
+
+7. [**Combined Overview**](diagrams/combined_overview.md)  
+   - Master map of the **entire SCL network**.  
+   - Links all **core SCLs, emergent loops, symbols, meta-SCLs, and recursive feedback**.  
+   - Includes **color-coded layers** for clarity.
+
+> **Tip:** Follow the arrows in each diagram to trace how inputs t
+
 
 ---
 
