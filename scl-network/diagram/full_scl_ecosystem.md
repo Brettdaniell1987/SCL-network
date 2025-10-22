@@ -8,7 +8,7 @@
 - [Combined Overview](../diagrams/combined_overview.md)
 
 **Related Simulations:**  
-- [Experimental Collisions](../simulations/experimental_collisions.md)
+- [Experimental Collisions](../simulation/experimental_collisions.md)
 
 ---
 
