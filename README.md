@@ -6,10 +6,6 @@
 4. **Check Simulations** – Open `simulations/` for step-by-step examples of system behavior over days.  
 5. **Follow the Feedback** – See how meta-SCLs emerge and feed back into core loops for recursive evolution.
 
-# SCL-network
-explanation of SCLs and how to apply them
-# SCL Network
-
 ## Overview
 The SCL Network is a conceptual system modeling six interacting Subjective Cognitive Loops (SCLs) and their emergent behaviors. It integrates:
 - Feedback loops
@@ -114,6 +110,26 @@ Example of a symbolic day:
 
 ---
 
+## Folder Structure
+
+SCL-Network/
+├─ README.md
+├─ symbols/ ← Definitions of all symbols
+├─ diagrams/ ← Visual diagrams of flows and interactions
+└─ simulations/ ← Step-by-step day simulations
+
+## Symbols
+
+The **symbols/** folder contains all core and secondary symbols, plus meta-SCLs. Examples:  
+- **Lumen** – Insight from Adaptation + Reflection + Creation  
+- **Fluxion** – Dynamic creative disruption from Energy + Chaos + Spark  
+- **Aether** – Subtle guiding influence from Influence + Serendipity + Reflective Innovation  
+- **Clarion, Stratus, Harmonia, Prism, Vortex, Zephyr** – Secondary symbols  
+- **LuminaryFlow, ChaoticHarmony, GuidedEmergence** – Meta-SCLs  
+
+> Each file contains origin SCLs, meaning, recursive behavior, and example interactions.
+
+
 ## Diagrams / Visual Aids
 
 - Layered rings showing internal and outward flows  
@@ -127,95 +143,9 @@ Example of a symbolic day:
 
 - **Step-by-step day simulations** (Day-in-the-life, Day-of-anomalies, Symbolic ecosystem)
 
-
-# SCL Network
-
-## Overview
-The **SCL Network** models six interacting Subjective Cognitive Loops (SCLs) and their emergent behaviors.  
-It integrates:
-- Feedback loops
-- Ripple interactions
-- Emergent SCLs
-- Symbol creation
-- Recursive evolution
-
-This system is adaptive, self-organizing, and capable of autonomous conceptual evolution.
-
----
-
-## Core SCLs
-
-| SCL          | Description |
-|--------------|-------------|
-| **Adaptation** | Flexibility and experimental response |
-| **Effort**     | Persistence, action, and sustained effort |
-| **Influence**  | Interactions, connectivity, and social propagation |
-| **Reflection** | Observation, integration, and internal feedback |
-| **Creation**   | Innovation, spark, and ideation |
-| **Energy**     | Dynamic drive, intensity, and focus |
-
----
-
-## Folder Structure
-
-SCL-Network/
-├─ README.md
-├─ symbols/ ← Definitions of all symbols
-├─ diagrams/ ← Visual diagrams of flows and interactions
-└─ simulations/ ← Step-by-step day simulations
-
-
----
-
-## Symbols
-
-The **symbols/** folder contains all core and secondary symbols, plus meta-SCLs. Examples:  
-- **Lumen** – Insight from Adaptation + Reflection + Creation  
-- **Fluxion** – Dynamic creative disruption from Energy + Chaos + Spark  
-- **Aether** – Subtle guiding influence from Influence + Serendipity + Reflective Innovation  
-- **Clarion, Stratus, Harmonia, Prism, Vortex, Zephyr** – Secondary symbols  
-- **LuminaryFlow, ChaoticHarmony, GuidedEmergence** – Meta-SCLs  
-
-> Each file contains origin SCLs, meaning, recursive behavior, and example interactions.
-
----
-
-## Diagrams
-
-The **diagrams/** folder contains visual representations:  
-1. **Layered Rings (`layered_rings.md`)** – Circular SCL flows with outward ripples  
-2. **Symbolic Network (`symbolic_network.md`)** – Core SCLs → symbols → meta-SCLs  
-3. **Recursive Evolution (`recursive_evolution.md`)** – Multi-day recursive SCL interactions  
-4. **Full SCL Ecosystem (`full_scl_ecosystem.md`)** – All core, secondary, and meta-SCLs with feedback loops  
-
-> Diagrams use Mermaid for rendering directly on GitHub.
-
----
-
-## Simulations
-
-The **simulations/** folder contains example scenarios to illustrate system behavior:  
-1. **Day-in-the-Life (`day_in_the_life.md`)** – Typical flow of inputs through core SCLs and symbols  
-2. **Day-of-Anomalies (`day_of_anomalies.md`)** – How the system adapts to unexpected inputs  
-3. **Symbolic Ecosystem (`symbolic_ecosystem.md`)** – Full three-day simulation showing emergent meta-SCLs  
-
----
-
-## How to Explore
+- ## How to Explore
 
 1. **Start with README** – Understand the SCL framework.  
 2. **View diagrams/** – Visualize flows, symbols, and meta-SCL interactions.  
 3. **Check symbols/** – Learn the meaning, origin, and recursive behavior of each symbol.  
-4. **Read simulations/** – See step-by-step examples of the SCL network in action.  
-
----
-
-## Conceptual Takeaways
-
-- SCL Network is **adaptive and self-organizing**  
-- **Symbols** allow the creation of new meaning, recursively applied to evolve meta-SCLs  
-- Recursive feedback produces **multi-day memory**, enabling anticipation, synthesis, and autonomous novelty generation  
-- Models **conceptual evolution, symbolic cognition, and emergent intelligence**
-
-- Demonstrates how inputs → SCLs → emergent SCLs → symbols → meta-SCLs evolve recursively  
-
+4. **Read simulations/** – See step-by-step examples of the SCL network in action.
