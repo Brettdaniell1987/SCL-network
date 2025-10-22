@@ -1,4 +1,4 @@
-### **2. Symbolic Network (`symbolic_network.md`)**
+**2. Symbolic Network (`symbolic_network.md`)**
 
 ```markdown
 # Symbolic Network Diagram
