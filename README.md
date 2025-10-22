@@ -8,6 +8,59 @@
 5. **Follow the Feedback** – See how meta-SCLs emerge and feed back into core loops for recursive evolution.
 
 ---
+flowchart TD
+    %% === ROOT ===
+    A[README.md]:::root
+
+    %% === DIAGRAMS ===
+    subgraph DI[Diagrams Folder]
+        B1[Layered Rings] 
+        B2[Recursive Evolution]
+        B3[Multi-Day Evolution]
+        B4[Symbolic Network]
+        B5[Full SCL Ecosystem]
+        B6[Combined Overview]
+    end
+
+    %% === SIMULATIONS ===
+    subgraph SIM[Simulations Folder]
+        C1[Day-in-the-Life]
+        C2[Day-of-Anomalies]
+        C3[Symbolic Ecosystem]
+        C4[Outside-the-Box Input]
+    end
+
+    %% === ROOT LINKS ===
+    A --> DI
+    A --> SIM
+
+    %% === DIAGRAM INTERLINKS ===
+    B6 --> B1
+    B6 --> B2
+    B6 --> B3
+    B6 --> B4
+    B6 --> B5
+
+    %% === SIMULATION LINKS ===
+    C1 --> B1
+    C1 --> B2
+    C2 --> B1
+    C2 --> B3
+    C2 --> C1
+    C3 --> B2
+    C3 --> B5
+    C3 --> C1
+    C4 --> B4
+    C4 --> C3
+
+    %% === STYLE CLASSES ===
+    classDef root fill:#222,color:#fff,stroke:#555,stroke-width:2px,font-size:16px,font-weight:bold;
+    classDef diagram fill:#1abc9c,color:#fff,stroke:#0e7c66,stroke-width:2px;
+    classDef simulation fill:#3498db,color:#fff,stroke:#1b5e91,stroke-width:2px;
+
+    class B1,B2,B3,B4,B5,B6 diagram
+    class C1,C2,C3,C4 simulation
+
 
 ## 📝Overview📝
 The **SCL Network** models six interacting Subjective Cognitive Loops (SCLs) and their emergent behaviors.  
