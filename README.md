@@ -91,7 +91,7 @@ Examples include:
 
 ---
 
-## 🖼️ Diagrams / Visual Aids 🖼️
+## 🖼️ Diagrams / Visual Aids
 
 The **diagrams/** folder contains visualizations of the SCL network. Click each link to view the corresponding diagram:
 
@@ -126,11 +126,10 @@ The **diagrams/** folder contains visualizations of the SCL network. Click each 
    - Links all **core SCLs, emergent loops, symbols, meta-SCLs, and recursive feedback**.  
    - Includes **color-coded layers** for clarity.
 
-> **Tip:** Follow the arrows in each diagram to trace how inputs t
-
+> **Tip:** Follow the arrows in each diagram to trace how inputs transform into emergent behaviors and feed back into the system.  
+> Start with **Symbolic Network** for a high-level understanding before exploring **Multi-Day Evolution** or **Experimental Collisions**.
 
 ---
-
 ## 🎬 Simulations / Examples 🎬
 
 The **simulations/** folder contains example scenarios illustrating how the SCL network behaves. Click each link to view the simulation:
@@ -160,8 +159,6 @@ The **simulations/** folder contains example scenarios illustrating how the SCL 
    - Visualized in **Experimental Collisions** diagram.
 
 > **Tip:** Start with **Day-in-the-Life** to understand normal system flow, then explore **Outside-the-Box Input** and **Experimental Collisions** for advanced scenarios.
-
-
 ---
 
 ## 🧭How to Explore🧭
