@@ -9,7 +9,7 @@
 
 ---
 
-## Overview📝
+## 📝Overview📝
 The **SCL Network** models six interacting Subjective Cognitive Loops (SCLs) and their emergent behaviors.  
 It integrates:
 - Feedback loops
