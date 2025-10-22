@@ -3,12 +3,14 @@
 **Back to README:** [Return to README](../../README.md)
  
 
-**Related Simulations:**  
-- [Day-in-the-Life](../simulations/day_in_the_life.md)  
-- [Day-of-Anomalies](../simulations/day_of_anomalies.md)  
-- [Symbolic Ecosystem](../simulations/symbolic_ecosystem.md)  
-- [Outside-the-Box Input](../simulations/outside_the_box.md)  
-- [Experimental Collisions](../simulations/experimental_collisions.md)
+**Related Diagrams:**  
+- [Experimental Collisions](experimental_collisions.md)  
+- [Full SCL Ecosystem](full_scl_ecosystem.md)  
+- [Layered Rings](layered_rings.md)  
+- [Recursive Evolution](recursive_evolution.md)  
+- [Symbolic Network](symbolic_network.md)  
+- [Multi-Day Evolution](multi_day_evolution.md)
+
 
 ```mermaid
 %% Combined Overview Diagram with Color Coding
