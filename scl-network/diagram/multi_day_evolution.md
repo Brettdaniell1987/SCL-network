@@ -1,11 +1,18 @@
-# Multi-Day Evolution Diagram
+# Multi-Day Recursive Evolution of SCLs
 
-**Back to README:** [Return to README](../README.md)  
+**Related Diagrams:**  
+- [Layered Rings](../diagrams/layered_rings.md)  
+- [Recursive Evolution](../diagrams/recursive_evolution.md)  
+- [Symbolic Network](../diagrams/symbolic_network.md)  
+- [Full SCL Ecosystem](../diagrams/full_scl_ecosystem.md)  
+- [Combined Overview](../diagrams/combined_overview.md)  
 
 **Related Simulations:**  
-- [Symbolic Ecosystem](../simulations/symbolic_ecosystem.md)
+- [Experimental Collisions](../simulations/experimental_collisions.md)
 
-# Multi-Day Recursive Evolution of SCLs
+---
+
+## 🌒 Multi-Day Recursive Evolution of SCLs
 
 This diagram shows how symbolic creation loops (SCLs) evolve and interact across multiple days.  
 Each day’s “signal” becomes the seed for the next — adapting, reflecting, and transmitting refined meaning into future iterations.
