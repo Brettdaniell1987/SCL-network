@@ -9,7 +9,7 @@
 - [Combined Overview](../diagrams/combined_overview.md)
 
 **Related Simulations:**  
-- [Experimental Collisions Simulation](../simulations/experimental_collisions.md)
+- [Experimental Collisions Simulation](../simulation/experimental_collisions.md)
 
 ---
 
