@@ -203,13 +203,6 @@ This table summarizes all current simulations in the SCL Network repository, pro
 
 ---
 
-## How to Use This Index
-- Click the simulation name in your repository to open the detailed file.  
-- Compare setups and cycle logs to observe differences in ripple effects and emergent symbols.  
-- Use as a guide to plan experiments, track outcomes, or cross-reference diagrams.
-
----
-
 ## 🧭How to Explore🧭
 1. Start with **Quick Start** for high-level guidance.  
 2. Read **Overview** and **Core SCLs** to understand the system basics.  
@@ -227,15 +220,6 @@ The SCL system is designed to:
 - Illustrate symbolic interactions across multiple layers (Core, Secondary, Meta)  
 - Track ripple effects and emergent symbols over cycles  
 - Enable experimentation with both standard and unconventional inputs
-
----
-
-## Quick Start
-
-1. Browse the [Diagram Index](#diagram-index) to see SCL structures.  
-2. Browse the [Simulation Index](#simulation-index) to explore dynamic behaviors.  
-3. Start with **Combined Overview** to understand overall flow.  
-4. Open individual simulations or diagrams to see step-by-step interactions and emergent patterns.
 
 ---
 
