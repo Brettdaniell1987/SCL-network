@@ -10,6 +10,21 @@ The SCL system is designed to:
 
 ---
 
+## Quick Start
+
+1. Browse the [Diagram Index](#diagram-index) to see SCL structures.  
+2. Browse the [Simulation Index](#simulation-index) to explore dynamic behaviors.  
+3. Start with **Combined Overview** to understand overall flow.  
+4. Open individual simulations or diagrams to see step-by-step interactions and emergent patterns.
+
+---
+
+## Overview
+
+The SCL Network models the flow of symbolic creation, reflection, adaptation, and influence across multiple interconnected loops. Each loop generates ripple effects that interact with other loops, producing emergent patterns and symbols. The network is designed to be recursive, allowing outputs from one cycle to seed the next.
+
+---
+
 ## Conceptual Notes
 
 - **Core SCLs:** Fundamental loops—Creation 🌱, Effort/Adaptation ⚙️, Reflection 💭, Influence 🌊  
@@ -61,4 +76,4 @@ The SCL system is designed to:
 | [Day-of-Anomalies](simulation/day_of_anomalies.md) | Tests network response to unexpected inputs | Unusual symbols; adaptation and reflection loops challenged |
 | [Symbolic Ecosystem](simulation/symbolic_ecosystem.md) | Shows multi-layer SCL interactions over time | Core + Secondary + Meta layers; recursive integration and emergent patterns |
 | [Outside-the-Box Input](simulation/outside_the_box.md) | Explores novel or unconventional symbolic inputs | Completely new symbols; ripple effects across all layers |
-| [Experimental Collisions](simulation/experimental_collisions.md) | Examines conflicting_)
+| [E]()
