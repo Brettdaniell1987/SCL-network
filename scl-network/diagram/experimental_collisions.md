@@ -1,6 +1,6 @@
 # Experimental Collisions Diagram
 
-**Back to README:** [Return to README](../README.md)  
+**Back to README:** [Return to README](../../README.md)
 
 **Related Simulations:**  
 - [Outside-the-Box Input](../simulations/outside_the_box.md)  
