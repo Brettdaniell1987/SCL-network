@@ -1,6 +1,6 @@
 # Full SCL Ecosystem Diagram
 
-**Back to README:** [Return to README](../README.md)  
+**Back to README:** [Return to README](../../README.md)
 
 **Related Simulations:**  
 - [Day-of-Anomalies](../simulations/day_of_anomalies.md)
