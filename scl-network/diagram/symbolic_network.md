@@ -1,51 +1,66 @@
-# Symbolic Network Diagram
+# Symbolic Network Overview
 
-**Back to README:** [Return to README](../../README.md)  
+**Related Diagrams:**  
+- [Layered Rings](../diagrams/layered_rings.md)  
+- [Recursive Evolution](../diagrams/recursive_evolution.md)  
+- [Multi-Day Evolution](../diagrams/multi_day_evolution.md)  
+- [Full SCL Ecosystem](../diagrams/full_scl_ecosystem.md)  
+- [Combined Overview](../diagrams/combined_overview.md)
 
 **Related Simulations:**  
-- [Day-in-the-Life](../simulations/day_in_the_life.md)  
-- [Symbolic Ecosystem](../simulations/symbolic_ecosystem.md)
+- [Experimental Collisions](../simulations/experimental_collisions.md)
+
+---
+
+## 🌐 Symbolic Network Overview
+
+This diagram visualizes the symbolic communication between SCLs (Symbolic Creation Loops).  
+Each SCL acts as both a **node** and a **transmitter**, sending and receiving evolving signals of meaning that reshape the network over time.
 
 ```mermaid
-%% Symbolic Network Diagram with Color Coding
-
-%% Define nodes with colors directly
 graph TD
-    %% Core SCLs (Blue)
-    Adaptation[Adaptation]:::core
-    Reflection[Reflection]:::core
-    Creation[Creation]:::core
-    Energy[Energy]:::core
-    Influence[Influence]:::core
-    Effort[Effort]:::core
+    %% === TITLE ===
+    A[Symbolic Network]:::title
 
-    %% Secondary Symbols (Green)
-    Lumen[Lumen]:::secondary
-    Prism[Prism]:::secondary
-    Fluxion[Fluxion]:::secondary
+    %% === CORE SCLs ===
+    subgraph Core[Core SCL Cluster]
+        C1[Creation 🌱]:::creation
+        C2[Effort / Adaptation ⚙️]:::effort
+        C3[Reflection 💭]:::reflection
+        C4[Influence 🌊]:::influence
+        C1 --> C2 --> C3 --> C4 --> C1
+    end
 
-    %% Meta-SCLs (Orange)
-    LuminaryFlow[LuminaryFlow]:::meta
-    ChaoticHarmony[ChaoticHarmony]:::meta
-    GuidedEmergence[GuidedEmergence]:::meta
+    %% === SECONDARY SCLs ===
+    subgraph Secondary[Emergent / Derived Loops]
+        S1[Imagination 💡]:::secondary
+        S2[Interpretation 🧩]:::secondary
+        S3[Application 🔧]:::secondary
+        S4[Communication 📡]:::secondary
+        S1 --> S2 --> S3 --> S4 --> S1
+    end
 
-    %% Connections
-    Adaptation --> Lumen
-    Reflection --> Lumen
-    Creation --> Fluxion
-    Energy --> Fluxion
-    Influence --> Prism
-    Effort --> Prism
+    %% === META SCLs ===
+    subgraph Meta[Recursive / Meta-Level Dynamics]
+        M1[Integration 🔄]:::meta
+        M2[Meta-Reflection 🪞]:::meta
+        M3[Symbolic Rebirth ✴️]:::meta
+        M1 --> M2 --> M3 --> M1
+    end
 
-    Lumen --> LuminaryFlow
-    Prism --> ChaoticHarmony
-    Fluxion --> GuidedEmergence
+    %% === INTERCONNECTIONS ===
+    C4 --> S1
+    S4 --> M1
+    M3 --> C1
+    C2 --> S3
+    S2 --> M2
+    M2 --> C3
 
-    LuminaryFlow --> ChaoticHarmony
-    ChaoticHarmony --> GuidedEmergence
-    GuidedEmergence --> LuminaryFlow
-
-%% Define classes
-classDef core fill:#a8d0e6,stroke:#333,stroke-width:1px;
-classDef secondary fill:#b8e986,stroke:#333,stroke-width:1px;
-classDef meta fill:#f6b26b,stroke:#333,stroke-width:1px;
+    %% === STYLES ===
+    classDef title fill:#222,color:#fff,stroke:#555,stroke-width:2px,font-size:18px,font-weight:bold;
+    classDef creation fill:#1abc9c,color:#fff,stroke:#0e7c66,stroke-width:2px;
+    classDef effort fill:#3498db,color:#fff,stroke:#1b5e91,stroke-width:2px;
+    classDef reflection fill:#9b59b6,color:#fff,stroke:#5e3378,stroke-width:2px;
+    classDef influence fill:#f1c40f,color:#000,stroke:#b38f00,stroke-width:2px;
+    classDef secondary fill:#f39c12,color:#000,stroke:#b36d00,stroke-width:2px;
+    classDef meta fill:#e74c3c,color:#fff,stroke:#8b1e15,stroke-width:2px;
