@@ -10,6 +10,8 @@
 ---
 ### Repository Map
 Below is a visual map showing how diagrams and simulations are structured and interlinked.
+
+```mermaid
 flowchart TD
     %% === ROOT ===
     A[README.md]:::root
