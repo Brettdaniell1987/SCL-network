@@ -1,6 +1,6 @@
 # SCL Network
 
-## Quick Start
+## ⚡Quick Start⚡
 1. **Overview** – Understand the SCL framework and its six core loops.  
 2. **View Diagrams** – Open `diagrams/` to see flows, recursive loops, and the full ecosystem.  
 3. **Explore Symbols** – Go to `symbols/` to read definitions and meanings for each symbol.  
@@ -9,7 +9,7 @@
 
 ---
 
-## Overview
+## Overview📝
 The **SCL Network** models six interacting Subjective Cognitive Loops (SCLs) and their emergent behaviors.  
 It integrates:
 - Feedback loops
@@ -22,7 +22,7 @@ This system is adaptive, self-organizing, and capable of autonomous conceptual e
 
 ---
 
-## Core SCLs
+## 🔄Core SCLs🔄
 
 | SCL          | Description |
 |--------------|-------------|
@@ -35,7 +35,7 @@ This system is adaptive, self-organizing, and capable of autonomous conceptual e
 
 ---
 
-## SCL Flows and Interactions
+## 🌊SCL Flows and Interactions🌊
 
 ### Ripple Flow
 - Core SCLs circulate internally, generating ripples that interact with other loops.  
@@ -59,7 +59,7 @@ This system is adaptive, self-organizing, and capable of autonomous conceptual e
 
 ---
 
-## Conceptual Takeaways
+## 💡Conceptual Takeaways💡
 - The SCL Network is **adaptive and self-organizing**.  
 - Symbols allow creation of **new meaning**, recursively applied to evolve meta-SCLs.  
 - Recursive feedback produces **multi-day memory**, enabling anticipation, synthesis, and autonomous novelty.  
@@ -67,7 +67,7 @@ This system is adaptive, self-organizing, and capable of autonomous conceptual e
 
 ---
 
-## Folder Structure
+## 📂Folder Structure📂
 
 SCL-Network/
 ├─ README.md
@@ -78,7 +78,7 @@ SCL-Network/
 
 ---
 
-## Symbols
+## 🔣Symbols🔣
 The **symbols/** folder contains all core, secondary, and meta-symbols.  
 Examples include:  
 - **Lumen** – Insight from Adaptation + Reflection + Creation  
@@ -91,7 +91,7 @@ Examples include:
 
 ---
 
-## Diagrams / Visual Aids
+## 🖼️Diagrams / Visual Aids🖼️
 The **diagrams/** folder contains:  
 1. **Layered Rings** – Circular SCL flows with outward ripples  
 2. **Symbolic Network** – Core SCLs → symbols → meta-SCLs  
@@ -102,7 +102,7 @@ The **diagrams/** folder contains:
 
 ---
 
-## Examples / Simulations
+## 🎬Examples / Simulations🎬
 The **simulations/** folder contains example scenarios:  
 1. **Day-in-the-Life** – Typical flow of inputs through core SCLs and symbols  
 2. **Day-of-Anomalies** – How the system adapts to unexpected inputs  
@@ -110,7 +110,7 @@ The **simulations/** folder contains example scenarios:
 
 ---
 
-## How to Explore
+## 🧭How to Explore🧭
 1. Start with **Quick Start** for high-level guidance.  
 2. Read **Overview** and **Core SCLs** to understand the system basics.  
 3. View **Diagrams/** to visualize flows and interactions.  
