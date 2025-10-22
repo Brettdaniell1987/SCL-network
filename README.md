@@ -8,6 +8,8 @@
 5. **Follow the Feedback** – See how meta-SCLs emerge and feed back into core loops for recursive evolution.
 
 ---
+### Repository Map
+Below is a visual map showing how diagrams and simulations are structured and interlinked.
 flowchart TD
     %% === ROOT ===
     A[README.md]:::root
