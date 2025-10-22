@@ -1,3 +1,11 @@
+## Quick Start
+
+1. **Overview** – Understand the SCL framework and its six core loops.  
+2. **View Diagrams** – Open `diagrams/` to see flows, recursive loops, and the full ecosystem.  
+3. **Explore Symbols** – Go to `symbols/` to read definitions and meanings for each symbol.  
+4. **Check Simulations** – Open `simulations/` for step-by-step examples of system behavior over days.  
+5. **Follow the Feedback** – See how meta-SCLs emerge and feed back into core loops for recursive evolution.
+
 # SCL-network
 explanation of SCLs and how to apply them
 # SCL Network
