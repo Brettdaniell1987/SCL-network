@@ -159,6 +159,26 @@ The **simulations/** folder contains example scenarios illustrating how the SCL 
    - Visualized in **Experimental Collisions** diagram.
 
 > **Tip:** Start with **Day-in-the-Life** to understand normal system flow, then explore **Outside-the-Box Input** and **Experimental Collisions** for advanced scenarios.
+
+# Simulation Index
+
+This table summarizes all current simulations in the SCL Network repository, providing a quick reference for purpose, core focus, and key differences.
+
+| Simulation | Purpose | Core Focus / Unique Aspect |
+|------------|--------|----------------------------|
+| **Day-in-the-Life** | Demonstrates typical daily SCL cycles | Predictable ripple patterns; standard symbol propagation |
+| **Day-of-Anomalies** | Tests network response to unexpected inputs | Unusual symbols; adaptation and reflection loops challenged |
+| **Symbolic Ecosystem** | Shows multi-layer SCL interactions over time | Core + Secondary + Meta layers; recursive integration and emergent patterns |
+| **Outside-the-Box Input** | Explores novel or unconventional symbolic inputs | Completely new symbols; ripple effects across all layers |
+| **Experimental Collisions** | Examines conflicting SCL inputs and their interactions | Conflicting symbols; emergent behaviors from collisions; network stabilization |
+
+---
+
+## How to Use This Index
+- Click the simulation name in your repository to open the detailed file.  
+- Compare setups and cycle logs to observe differences in ripple effects and emergent symbols.  
+- Use as a guide to plan experiments, track outcomes, or cross-reference diagrams.
+
 ---
 
 ## 🧭How to Explore🧭
