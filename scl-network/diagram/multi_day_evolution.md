@@ -5,8 +5,12 @@
 **Related Simulations:**  
 - [Symbolic Ecosystem](../simulations/symbolic_ecosystem.md)
 
+# Multi-Day Recursive Evolution of SCLs
+
+This diagram shows how symbolic creation loops (SCLs) evolve and interact across multiple days.  
+Each day’s “signal” becomes the seed for the next — adapting, reflecting, and transmitting refined meaning into future iterations.
+
 ```mermaid
-%% Multi-Day Evolution Diagram
 graph TD
     %% === TITLE ===
     A[Multi-Day Recursive Evolution of SCLs]:::title
