@@ -65,4 +65,26 @@ graph TD
     %% Connections Day 2
     LuminaryFlow_D1 --> Adaptation_D2
     ChaoticHarmony_D1 --> Reflection_D2
-    GuidedEmer
+    GuidedEmergence_D1 --> Creation_D2
+    Lumen_D1 --> Energy_D2
+    Prism_D1 --> Influence_D2
+    Fluxion_D1 --> Effort_D2
+
+    Lumen_D2 --> LuminaryFlow_D2
+    Prism_D2 --> ChaoticHarmony_D2
+    Fluxion_D2 --> GuidedEmergence_D2
+
+    %% Day 3 Core SCLs (Blue)
+    Adaptation_D3[Adaptation D3]:::core
+    Reflection_D3[Reflection D3]:::core
+    Creation_D3[Creation D3]:::core
+
+    %% Connections Day 3
+    LuminaryFlow_D2 --> Adaptation_D3
+    ChaoticHarmony_D2 --> Reflection_D3
+    GuidedEmergence_D2 --> Creation_D3
+
+%% Define Classes
+classDef core fill:#a8d0e6,stroke:#333,stroke-width:1px;
+classDef secondary fill:#b8e986,stroke:#333,stroke-width:1px;
+classDef meta fill:#f6b26b,stroke:#333,stroke-width:1px;
