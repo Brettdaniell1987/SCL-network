@@ -1,21 +1,18 @@
-# Day-of-Anomalies SCL Simulation
+# Day-of-Anomalies Simulation
 
-## Unexpected Inputs
-- Fluxion-like energy bursts disrupt core SCLs  
-- Serendipitous events feed Aether and Lumen  
+**Purpose:**  
+Tests how the SCL network responds to unexpected or anomalous inputs.
 
-## Core SCL Response
-- Adaptation and Reflection rapidly adjust  
-- Effort + Energy loops amplify to stabilize  
+**Setup:**  
+- Core SCLs: Creation, Effort, Reflection, Influence  
+- Secondary SCLs: Imagination, Interpretation, Application, Communication  
+- Introduce anomalous or disruptive signals
 
-## Emergent Symbols
-- Secondary symbols appear: Vortex, Zephyr  
-- Lumen + Prism → LuminaryFlow emerges early  
+**Observations:**  
+- Unexpected inputs cause ripple effects that alter standard patterns.  
+- Reflection cycles adapt to integrate anomalies.  
+- Emergent symbols can appear in unusual locations.
 
-## Recursive Feedback
-- Meta-SCLs re-inject into core loops  
-- System shows self-correcting behavior despite anomalies  
-
-## Outcome
-- System resilience is demonstrated  
-- New symbols enrich the SCL ecosystem for future days
+**Next Steps:**  
+- Analyze which loops are most resilient to disruption.  
+- Observe effects on recursive/meta loops over time.
