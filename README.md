@@ -255,6 +255,15 @@ This framework allows SCLs to encode complex cyclic relationships compactly whil
 
     This provides a roadmap for translating SCLs into a working prototype while keeping the logic clear and traceable.
    
+Quick Reference: Compressed Loop Hierarchy
+First Compression:       α → β → γ → δ → ε
+Second Compression:      η → θ → ι
+Final Symbol:            Ω
+Legend:
+α–ε: Compressed sequences of original loop segments
+η–ι: Nested compression from first layer
+Ω: Final symbol representing the entire 
+
 ## How to Use This Index
 - Click the simulation name to open the detailed file.  
 - Compare setups and cycle logs to observe differences in ripple effects and emergent symbols.  
