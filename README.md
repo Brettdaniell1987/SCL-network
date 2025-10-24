@@ -99,29 +99,29 @@ The **diagrams/** folder contains visualizations of the SCL network. Click each 
    - Shows **core SCLs circulating** and generating outward ripples.  
    - Helps visualize **how new loops and interactions propagate**.
 
-2. [**Symbolic Network**](diagram/symbolic_network.md)  
+2. [**Symbolic Network**](scl-network/diagram/symbolic_network.md)  
    - Maps **core SCLs → secondary symbols → meta-SCLs**.  
    - Illustrates **how symbols are created and integrated** in a high-level view.  
    - Good for newcomers to quickly grasp **symbolic flow**.
 
-3. [**Recursive Evolution**](diagram/recursive_evolution.md)  
+3. [**Recursive Evolution**](scl-network/diagram/recursive_evolution.md)  
    - Displays **multi-day feedback loops**, showing how symbols and meta-SCLs evolve over time.  
    - Corresponds to **Day-in-the-Life** and **Symbolic Ecosystem** simulations.
 
-4. [**Full SCL Ecosystem**](diagrams/full_scl_ecosystem.md)  
+4. [**Full SCL Ecosystem**](scl-network/diagrams/full_scl_ecosystem.md)  
    - Combines **all core, emergent, secondary, and meta-SCLs**.  
    - Shows **recursive feedback loops** and system growth over multiple days.
 
-5. [**Experimental Collisions**](diagram/experimental_collisions.md)  
+5. [**Experimental Collisions**](scl-network/diagram/experimental_collisions.md)  
    - Visualizes **simultaneous outside-the-box inputs** interacting with the system.  
    - Matches the **Experimental Collisions** simulation.  
    - Shows **emergent symbols, meta-SCLs, and recursive adaptation**.
 
-6. [**Multi-Day Evolution**](diagram/multi_day_evolution.md)  
+6. [**Multi-Day Evolution**](scl-network/diagram/multi_day_evolution.md)  
    - Displays **Day 1 → Day 2 → Day 3 evolution** of symbols and meta-SCLs.  
    - Demonstrates **long-term adaptation and recursive growth**.
 
-7. [**Combined Overview**](diagram/combined_overview.md)  
+7. [**Combined Overview**](scl-network/diagram/combined_overview.md)  
    - Master map of the **entire SCL network**.  
    - Links all **core SCLs, emergent loops, symbols, meta-SCLs, and recursive feedback**.  
    - Includes **color-coded layers** for clarity.
