@@ -10,6 +10,33 @@
 ---
 
 ## 📝Overview📝
+Welcome to SCL
+SCL (Symbolic Compositional Language) is a framework designed to describe and manipulate patterns in a structured way. Think of it like a toolkit for understanding how small building blocks can combine into complex systems.
+
+You don’t need prior experience to get started. At its core, SCL works with symbols, which are simple units of information, and diagrams, which show how these symbols interact. By learning a few basic concepts, you can read, create, and transform these diagrams step by step.
+
+A Simple Example:
+Imagine you have three symbols: A, B, and C. In SCL, you could create a diagram that connects them like this:
+A → B → C
+This diagram shows a simple flow: A leads to B, and B leads to C. Even with just three symbols, you can start to see how patterns and relationships form. Later, you’ll learn how to combine multiple diagrams, add loops, or transform them into new patterns—all using the same basic principles.
+
+Now that you understand a simple flow, let’s see how multiple flows can interact. Suppose you have another symbol D that can influence both B and C. In SCL, you could represent it like this:
+
+A → B → C
+     ↑
+     D
+
+Here, D points to B, showing that D can affect B before it goes to C. This introduces the idea of branching or multiple influences.
+
+You can also represent loops. For example, if C can feed back into A, you’d write:
+
+A → B → C
+↑       |
+└-------┘
+
+Loops show recurring interactions, which are common in many systems. By combining simple flows and loops, you can start to model more complex behaviors, all while using the same basic symbols and diagrams you just learned.
+
+
 The **SCL Network** models six interacting Subjective Cognitive Loops (SCLs) and their emergent behaviors.  
 It integrates:
 - Feedback loops
