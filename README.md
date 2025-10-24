@@ -22,18 +22,21 @@ This diagram shows a simple flow: A leads to B, and B leads to C. Even with just
 
 Now that you understand a simple flow, let’s see how multiple flows can interact. Suppose you have another symbol D that can influence both B and C. In SCL, you could represent it like this:
 
+```
 A → B → C
-     ↑
-     D
+↑
+D
+```
 
 Here, D points to B, showing that D can affect B before it goes to C. This introduces the idea of branching or multiple influences.
 
 You can also represent loops. For example, if C can feed back into A, you’d write:
 
+'''
 A → B → C
 ↑       |
 └-------┘
-
+'''
 Loops show recurring interactions, which are common in many systems. By combining simple flows and loops, you can start to model more complex behaviors, all while using the same basic symbols and diagrams you just learned.
 
 
