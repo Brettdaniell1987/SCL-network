@@ -95,7 +95,7 @@ Examples include:
 
 The **diagrams/** folder contains visualizations of the SCL network. Click each link to view the corresponding diagram:
 
-1. [**Layered Rings**](diagram/layered_rings.md)  
+1. [**Layered Rings**](scl-network/diagram/layered_rings.md)  
    - Shows **core SCLs circulating** and generating outward ripples.  
    - Helps visualize **how new loops and interactions propagate**.
 
