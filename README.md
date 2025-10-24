@@ -40,6 +40,33 @@ A → B → C
 Loops show recurring interactions, which are common in many systems. By combining simple flows and loops, you can start to model more complex behaviors, all while using the same basic symbols and diagrams you just learned.
 
 
+Mini Project: Planning a Morning Routine
+
+Let’s see how SCL can model something familiar: your morning routine. Each task can be a symbol, and the arrows show the order or influence between tasks.
+
+Step 1: Identify tasks (symbols)
+```
+WakeUp → BrushTeeth → Breakfast → LeaveHouse
+```
+Each arrow shows the natural flow: after waking up, you brush your teeth, then have breakfast, then leave the house.
+
+Step 2: Add influences or branches
+Suppose you sometimes check your phone before breakfast. You can add a branch:
+```
+WakeUp → BrushTeeth → Breakfast → LeaveHouse
+       ↘ CheckPhone ↗
+```
+Now CheckPhone affects Breakfast timing and your overall routine flow.
+
+Step 3: Experiment with changes
+Maybe you want to add a quick exercise routine after waking up:
+```
+WakeUp → Exercise → BrushTeeth → Breakfast → LeaveHouse
+       ↘ CheckPhone ↗
+```
+You can see how adding or redirecting arrows changes the flow and outcomes.
+
+
 The **SCL Network** models six interacting Subjective Cognitive Loops (SCLs) and their emergent behaviors.  
 It integrates:
 - Feedback loops
