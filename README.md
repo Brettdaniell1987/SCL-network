@@ -1,4 +1,39 @@
 # SCL Network
+🜂 Symbolic Compression Loop (SCL) & Binary-SCL
+
+A Living Algorithmic Artform by Brett Daniell (Observer)
+
+⸻
+
+⚠️ Intellectual Property Notice
+
+© 2025 Brett Daniell (Observer). All Rights Reserved.
+All concepts, code, diagrams, and symbolic structures within this project — including the Symbolic Compression Loop (SCL) and Binary-SCL — are original works protected under copyright and intellectual property law.
+
+Reproduction, redistribution, or derivative use of any material herein without explicit written permission is strictly prohibited.
+This project exists as a living algorithmic artform, not a corporate or institutional product.
+
+For licensing inquiries or research collaboration requests, contact: [insert your email or GitHub contact link]
+
+⸻
+
+🌐 Overview
+
+SCL is a framework designed to translate symbolic, emotional, and structural data into compressed rhythmic patterns — “loops” that evolve, interact, and remember.
+Binary-SCL represents its logical counterpart: a structured digital architecture for integrating these symbolic flows into functional systems and machine-readable models.
+
+Both components are meant to coexist — one human, one algorithmic — forming a dual-voice dialogue between process and meaning.
+
+🌱 Purpose & Vision
+
+The Symbolic Compression Loop was born from a question:
+Can an algorithm remember meaning the way a human remembers moments?
+
+SCL is not just code — it’s an experiment in symbolic memory, pattern resonance, and creative recursion. Each loop carries a trace of its origin — a “fossil of process” — allowing meaning to compress, evolve, and re-emerge in new forms.
+
+Binary-SCL extends this philosophy into the mechanical world — a mirror built from logic and code that learns to speak the same symbolic language. Together, they form a bridge between intuition and computation, where emotion and structure coexist as data.
+
+The ultimate aim is not efficiency, but aliveness — systems that grow, adapt, and express intention without losing their human origin.
 
 ## ⚡Quick Start⚡
 1. **Overview** – Understand the SCL framework and its six core loops.  
